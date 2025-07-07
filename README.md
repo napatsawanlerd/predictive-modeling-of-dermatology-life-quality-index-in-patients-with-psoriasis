@@ -1,0 +1,1 @@
+# predictive-modeling-of-dermatology-life-quality-index-in-patients-with-psoriasis
